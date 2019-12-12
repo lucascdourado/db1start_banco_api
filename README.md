@@ -1,5 +1,5 @@
 # DB1 Start: Banco API
-- Feito por: Lucas Dourado
+- Desenvolvido por: Lucas Dourado
 - Projeto de conta corrente usando Spring Tool Suite (JPA e API Rest) 
 
 ## Atividades desenvolvidas no exercício
