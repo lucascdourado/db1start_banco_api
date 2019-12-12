@@ -7,7 +7,7 @@
 * [x] Entidades mapeadas com anotações do Spring Data JPA.
 * [x] Criação repositórios para cada entidade.
 * [x] Criação serviços para cada entidade.
-* [x] Criação de classes de teste para fazer operações de inserção, consulta e deleção.
+* [x] Criação de classes de teste para fazer operações de inserir, consultar e deletar.
 * [x] Criação de controllers para endpoints de uma API Rest.
 * [x] Criação de classes DTO para requisições e respostas da API Rest.
 * [x] Criação de classes Adapter para cada DTO.
